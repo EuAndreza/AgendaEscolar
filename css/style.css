@@ -1,0 +1,188 @@
+.head{
+	background-color: black;
+	color: white;
+}
+.tamanhoLetra{
+	font-size: 400%;
+}
+
+.li-adm{
+	color: black;
+	}
+
+/*INDEX*/
+.back{
+	background-color: #6666ff;
+	}
+.opc1{
+	width: 60%;
+	text-align: center;
+	/*position: relative;
+	height: 200px;
+	display: flex;
+	align-items: center;*/
+	margin: 0 auto;
+	}
+.opc2{
+	/*left: 550%;
+	right: 550%;
+	top: 120%;
+	margin-left: -100px;
+	margin-top: -50px;
+	position: absolute;
+	width: 200px;
+	height: 100px;  		
+	*/
+	margin-top: 20%;
+	}
+.prof{
+	margin: 3em auto;
+	}
+.alu{
+	margin: 3em auto;
+	}
+/*.btn-primary{
+	background-color: #1a1a1a;
+	width: 50%;
+	text-align: center;
+	/*height: 250%;
+	}*/
+.waves-effect{
+	background-color: #1a1a1a;
+	width: 50%;
+	text-align: center;
+	/*height: 250%;*/
+}
+
+
+
+
+/*@media screen and (min-width: 600px) {
+  .col-3 {
+    font-size: 80px;
+  }
+}*/
+
+@media only screen and (min-width: 992px) {
+  .center {
+  	font-size: 14px;
+  }
+} 
+/* Extra small devices (phones, 600px and down)
+@media only screen and (max-width: 600px) {
+  .prof1 {font-size: 10px;}
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) 
+@media only screen and (min-width: 600px) {
+  .example {background: green;}
+}
+
+/* Medium devices (landscape tablets, 768px and up) 
+@media only screen and (min-width: 768px) {
+  .example {background: blue;}
+} 
+
+/* Large devices (laptops/desktops, 992px and up)
+@media only screen and (min-width: 992px) {
+  .example {background: orange;}
+} 
+
+/* Extra large devices (large laptops and desktops, 1200px and up) 
+@media only screen and (min-width: 1200px) {
+  .example {background: pink;}
+}
+*/
+
+/*PROFESSOR*/
+
+.opc1-pro{
+	width: 50%;
+	text-align: center;
+	margin: 0 auto;
+	}
+	.opc2-pro{
+	margin-top: 20%;
+	}
+	.login{
+	margin: 2em auto;
+	}
+	.pass{
+	margin: 2em auto;
+	}
+	.btn{
+	background-color: #1a1a1a;
+	width: 50%;
+	text-align: center;
+	margin: 2em auto;
+	}
+	.login-prof-la{
+	font-size: 20px;
+	color: black;
+	}
+	.login-prof-pass{
+	font-size: 20px;
+	color: black;	
+	}
+
+/*ALUNO*/
+
+.opc1-alu{
+	width: 50%;
+	text-align: center;
+	margin: 0 auto;
+	}
+	.opc2-alu{
+	margin-top: 20%;
+	}
+	.login{
+	margin: 2em auto;
+	}
+	.pass{
+	margin: 2em auto;
+	}
+	.btn{
+	background-color: #1a1a1a;
+	width: 50%;
+	text-align: center;
+	margin: 2em auto;
+	}
+	.login-alu-la{
+	font-size: 20px;
+	color: black;
+	}
+	.login-alu-pass{
+	font-size: 20px;
+	color: black;	
+	}
+
+/*ADMINISTRADOR*/
+
+.opc1-adm{
+	width: 50%;
+	text-align: center;
+	margin: 0 auto;
+	}
+	.opc2-adm{
+	margin-top: 20%;
+	}
+	.login{
+	margin: 2em auto;
+	}
+	.pass{
+	margin: 2em auto;
+	}
+	.btn{
+	background-color: #1a1a1a;
+	width: 50%;
+	text-align: center;
+	margin: 2em auto;
+	}
+	.login-adm-la{
+	font-size: 20px;
+	color: black;
+	}
+	.login-adm-pass{
+	font-size: 20px;
+	color: black;	
+	}
